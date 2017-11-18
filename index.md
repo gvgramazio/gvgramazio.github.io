@@ -4,8 +4,6 @@
 
 :fa-github: github.com/gvgramazio
 :fa-envelope: gvgramazio@gmail.com
-:fa-archive:
-:fa-book:
 
 Coursera Courses:
 - [Front-End JavaScript Frameworks: Angular](https://github.com/gvgramazio/Front-End-JavaScript-Frameworks-Angular)
